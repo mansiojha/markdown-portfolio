@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of developer](https://image.shutterstock.com/image-vector/modern-young-woman-sitting-on-600w-1920630998.jpg)
